@@ -15,4 +15,10 @@ public class UserController {
     public void addUser(){
 
     }
+    /**
+     * 删除用户
+     */
+    public void deleteUser(){
+
+    }
 }
