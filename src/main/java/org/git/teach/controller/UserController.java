@@ -19,6 +19,6 @@ public class UserController {
      * 删除用户
      */
     public void deleteUser(){
-
+        System.out.println("deleteUser");
     }
 }
