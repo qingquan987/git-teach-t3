@@ -15,4 +15,11 @@ public class UserController {
     public void addUser(){
 
     }
+
+    /**
+     * 更新用户信息
+     */
+    public void updateUser(){
+
+    }
 }
