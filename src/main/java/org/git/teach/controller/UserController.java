@@ -8,4 +8,11 @@ public class UserController {
     public void fingById(){
 
     }
+
+    /**
+     * 新增用户
+     */
+    public void addUser(){
+
+    }
 }
